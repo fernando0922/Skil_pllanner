@@ -1,0 +1,37 @@
+{
+  "1": {
+    "name": "MONDAY",
+    "primary": "HTML",
+    "secondary": "CSS BATTLE"
+  },
+  "2": {
+    "name": "TUESDAY",
+    "primary": "CSS",
+    "secondary": "CSS BATTLE"
+  },
+  "3": {
+    "name": "WEDNESDAY",
+    "primary": "JAVASCRIPT",
+    "secondary": "CODEWARS JAVASCRIPT"
+  },
+  "4": {
+    "name": "THURSDAY",
+    "primary": "REACT",
+    "secondary": "CODEWARS JAVASCRIPT"
+  },
+  "5": {
+    "name": "FRIDAY",
+    "primary": "REACT + REDUX",
+    "secondary": "CODEWARS JAVASCRIPT"
+  },
+  "6": {
+    "name": "SATURDAY",
+    "primary": "SPRING BOOT",
+    "secondary": "JAVA + CODEWARS JAVA"
+  },
+  "7": {
+    "name": "SUNDAY",
+    "primary": "SPRING BOOT",
+    "secondary": "JAVA + CODEWARS JAVA"
+  }
+}
