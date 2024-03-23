@@ -19,10 +19,12 @@ const ToDo = () => {
       </Grid>
       <Grid item container justifyContent={"space-evenly"}>
         <Grid item id="primary">
-          {data[day]["primary"]}
+          <Typography variant="h5">primary</Typography>
+          <Typography variant="h4">{data[day]["primary"]}</Typography>
         </Grid>
         <Grid item id="secondary">
-          {data[day]["secondary"]}
+          <Typography variant="h5">secondary</Typography>
+          <Typography variant="h4">{data[day]["secondary"]}</Typography>
         </Grid>
       </Grid>
     </Grid>
