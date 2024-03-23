@@ -1,0 +1,21 @@
+#main {
+  min-height: 60vh;
+}
+
+#day {
+  color: white;
+  background-color: cadetblue;
+  border-radius: 100px;
+  width: 34vw;
+  text-align: center;
+  position: relative;
+  bottom: 45px;
+}
+
+#primary {
+  color: white;
+}
+
+#secondary {
+  color: white;
+}

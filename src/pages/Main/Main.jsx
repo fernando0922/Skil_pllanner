@@ -9,9 +9,9 @@ const Main = () => {
       <Grid item>
         <ToDo />
       </Grid>
-      <Grid item>
+      {/* <Grid item>
         <TimeTable />
-      </Grid>
+      </Grid> */}
     </Grid>
   );
 };
