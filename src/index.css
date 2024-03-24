@@ -3,7 +3,12 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   background-image: url("./assets/images/full_screen.png");
-  background-size: cover;
+  background-size: 100dvw 100dvh;
   background-repeat: no-repeat;
-  min-height: 98vh;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    background-image: url("./assets/images/mobile.png");
+  }
 }
