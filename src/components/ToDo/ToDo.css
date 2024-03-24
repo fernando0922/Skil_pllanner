@@ -56,17 +56,16 @@
   #primary-secondary {
     height: 45vh;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
   }
 
   #primary {
-    background-color: #27579f;
     min-width: 80vw;
   }
 
   #secondary {
     min-width: 80vw;
-    position: static;
+    position: relative;
+    bottom: 8px;
+    left: 0px;
   }
 }
